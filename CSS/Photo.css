@@ -1,0 +1,25 @@
+h2 {
+    color:red;
+    border: 1px solid blue;
+    margin: 5px 10px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 45px;
+    width:500px;
+}
+body{
+    
+}
+.aurora {
+    color:teal
+}
+
+#beth{
+    color:yellowgreen;
+    border-radius: 4px;
+}
+
+img {
+    width: 500px;
+    border-radius: 50px;
+}
